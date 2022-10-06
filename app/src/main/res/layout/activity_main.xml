@@ -39,12 +39,11 @@
         android:orientation="vertical"
         app:layout_constraintGuide_begin="20dp" />
 
-    <EditText
-        android:id="@+id/editTextNumber"
+    <TextView
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="number"
+        android:text="@string/label_bienvenido"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
