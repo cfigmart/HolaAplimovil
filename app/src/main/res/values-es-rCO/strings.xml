@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaAplimovil</string>
+    <string name="bt_ingresar_txt">Ingresar</string>
+    <string name="label_bienvenido">Bienvenido</string>
+</resources>

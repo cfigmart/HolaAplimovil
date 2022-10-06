@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAppMobile</string>
+    <string name="bt_ingresar_txt">Sign in</string>
+    <string name="label_bienvenido">Welcome</string>
+</resources>
